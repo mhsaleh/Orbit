@@ -1,0 +1,48 @@
+c:\users\momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Orbit.exe
+c:\users\momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Orbit.pdb
+c:\users\momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\obj\x86\Debug\Orbit.exe
+c:\users\momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\obj\x86\Debug\Orbit.pdb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\OrbGreen (100x100).xnb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\OrbRed (100x100).xnb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\InnerField (200x200).xnb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Satellite (50, 50) 1.5.xnb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Orbit.exe.manifest
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Orbit.application
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\obj\x86\Debug\Orbit.exe.manifest
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\obj\x86\Debug\Orbit.application
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Laser (10x10).xnb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\BoundaryGreen (1366x768).xnb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\BoundaryRed (1366x768).xnb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Field2 (1366x768).xnb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\obj\x86\Debug\Orbit.csprojResolveAssemblyReference.cache
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship2.xnb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship1.xnb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship1 (Small).xnb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship3 (Small).xnb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship5.xnb
+C:\Users\Momo\documents\visual studio 2012\Projects\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship5 (Small).xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\OrbGreen (100x100).xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\OrbRed (100x100).xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Satellite (50, 50) 1.5.xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Laser (10x10).xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\BoundaryGreen (1366x768).xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\BoundaryRed (1366x768).xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Field2 (1366x768).xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\InnerField (200x200).xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship1.xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship2.xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship1 (Small).xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship3 (Small).xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship5.xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship5 (Small).xnb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Orbit.exe.manifest
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Orbit.application
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Orbit.exe
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Orbit.pdb
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\obj\x86\Debug\Orbit.csprojResolveAssemblyReference.cache
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\obj\x86\Debug\Orbit.exe.manifest
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\obj\x86\Debug\Orbit.application
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\obj\x86\Debug\Orbit.exe
+C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\obj\x86\Debug\Orbit.pdb

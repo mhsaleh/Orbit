@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>OrbGreen (100x100).png</Source>
+      <Name>OrbGreen (100x100)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\OrbGreen (100x100).xnb</Output>
+      <Time>2014-06-30T14:12:51.3143425-07:00</Time>
+    </Item>
+    <Item>
+      <Source>OrbRed (100x100).png</Source>
+      <Name>OrbRed (100x100)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\OrbRed (100x100).xnb</Output>
+      <Time>2014-06-30T14:12:51.3113423-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Satellite (50, 50) 1.5.png</Source>
+      <Name>Satellite (50, 50) 1.5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Satellite (50, 50) 1.5.xnb</Output>
+      <Time>2014-06-30T17:21:28.0346218-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Laser (10x10).png</Source>
+      <Name>Laser (10x10)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Laser (10x10).xnb</Output>
+      <Time>2014-07-02T18:53:16.3833484-07:00</Time>
+    </Item>
+    <Item>
+      <Source>BoundaryGreen (1366x768).png</Source>
+      <Name>BoundaryGreen (1366x768)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\BoundaryGreen (1366x768).xnb</Output>
+      <Time>2014-07-03T17:14:16.6446517-07:00</Time>
+    </Item>
+    <Item>
+      <Source>BoundaryRed (1366x768).png</Source>
+      <Name>BoundaryRed (1366x768)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\BoundaryRed (1366x768).xnb</Output>
+      <Time>2014-07-03T17:14:16.6356512-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Field2 (1366x768).png</Source>
+      <Name>Field2 (1366x768)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Field2 (1366x768).xnb</Output>
+      <Time>2014-07-03T17:18:48.850221-07:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerField (200x200).png</Source>
+      <Name>InnerField (200x200)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\InnerField (200x200).xnb</Output>
+      <Time>2014-07-03T18:25:42.7908053-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Ship1.png</Source>
+      <Name>Ship1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship1.xnb</Output>
+      <Time>2014-07-04T18:54:22.3238906-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Ship2.png</Source>
+      <Name>Ship2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship2.xnb</Output>
+      <Time>2014-07-04T18:54:27.1001638-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Ship1 (Small).png</Source>
+      <Name>Ship1 (Small)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship1 (Small).xnb</Output>
+      <Time>2014-07-04T19:00:13.1809585-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Ship3 (Small).png</Source>
+      <Name>Ship3 (Small)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship3 (Small).xnb</Output>
+      <Time>2014-07-04T19:07:02.1103479-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Ship5.png</Source>
+      <Name>Ship5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship5.xnb</Output>
+      <Time>2014-07-05T16:05:12.1820549-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Ship5 (Small).png</Source>
+      <Name>Ship5 (Small)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\Ship5 (Small).xnb</Output>
+      <Time>2014-07-05T16:49:01.6284506-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E9453021-1152-447C-869E-E22F3E1741FF}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\OrbitContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Momo\Desktop\Code Portfolio\Personal\Orbit\Orbit\Orbit\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-06-29T14:49:55.5973723-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
